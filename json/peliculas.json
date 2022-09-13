@@ -1,0 +1,138 @@
+{
+  "peliculas": [
+    {
+      "id": 2,
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Acción",
+      "caratula":"https://pics.filmaffinity.com/pulp_fiction-210382116-large.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "300",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción",
+      "caratula" :"https://pics.filmaffinity.com/300-177205452-large.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "El silencio de los corderos",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama",
+      "caratula" : "https://pics.filmaffinity.com/the_silence_of_the_lambs-767447992-large.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia",
+      "caratula" :"https://pics.filmaffinity.com/forrest_gump-212765827-large.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Las Hurdes",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental",
+      "caratula" : "https://pics.filmaffinity.com/las_hurdes_tierra_sin_pan-618902623-large.jpg"
+    },
+    {
+      "id": 8 ,
+      "nombre" : "Platoon",
+      "director" : "Oliver Stone",
+      "clasificacion" : "Acción",
+      "caratula" : "https://pics.filmaffinity.com/platoon-800279536-large.jpg"
+    },  
+    { "id": 9,
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "caratula" : "https://pics.filmaffinity.com/the_sixth_sense-516003703-large.jpg"
+      
+    },
+    { "id": 10 ,
+      "nombre": "Thor: Love and Thunder",
+      "director": "Taika Waititi",
+      "clasificacion": "Fantastico",
+      "caratula" : "https://pics.filmaffinity.com/thor_love_and_thunder-566116133-large.jpg"
+      
+    },
+    { "id": 11,
+      "nombre": "Batman",
+      "director": "Tim Burton",
+      "clasificacion": "Fantastico",
+      "caratula" : "https://pics.filmaffinity.com/batman-910896570-large.jpg"
+      
+    },
+    {
+      "id": 12,
+      "nombre":"El señor de los Anillos:La Comunidad del Anillo",
+      "director":"Peter Jackson",
+      "clasificacion": "Fantastico",
+      "caratula" : "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-large.jpg"
+    },
+    {
+      "id":13 ,
+      "nombre":"El señor de los Anillos:Las Dos Torres",
+      "director":"Peter Jackson",
+      "clasificacion": "Fantastico",
+      "caratula" : "https://pics.filmaffinity.com/the_lord_of_the_rings_the_two_towers-450612576-large.jpg"
+    },
+    {
+      "id": 14,
+      "nombre":"El señor de los Anillos: El Retorno del Rey",
+      "director":"Peter Jackson",
+      "clasificacion": "Fantastico",
+      "caratula" : "https://pics.filmaffinity.com/the_lord_of_the_rings_the_return_of_the_king-178294596-large.jpg"
+    },
+    {
+      "id":15,
+      "nombre":"El Hobbit: Un Viaje Inesperado",
+      "director":"Peter Jackson",
+      "clasificacion": "Fantastico",
+      "caratula" : "https://pics.filmaffinity.com/the_hobbit_an_unexpected_journey-249234415-large.jpg"
+    },
+    {
+      "id":16 ,
+      "nombre":"El Hobbit: La desolación de Smaug",
+      "director":"Peter Jackson",
+      "clasificacion": "Fantastico",
+      "caratula" : "https://pics.filmaffinity.com/the_hobbit_the_desolation_of_smaug-498845622-large.jpg"
+    },
+    {
+      "id": 17,
+      "nombre":"El Hobbit: La Batalla de los cinco ejércitos",
+      "director":"Peter Jackson",
+      "clasificacion": "Fantastico",
+      "caratula" : "https://pics.filmaffinity.com/the_hobbit_the_battle_of_the_five_armies-282438316-large.jpg"
+    },
+    {
+      "id":18,
+      "nombre": "El señor de los Anillos , Los anillos de poder",
+      "director":"Juan Antonio Garcia Bayona",
+      "clasificacion":"Fantastico",
+      "caratula":"https://super-ficcion.com/wp-content/uploads/2022/02/Anillos-de-poder-1-780x470.webp"
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    },
+    {
+      "nombre": "Fantastico",
+      "id": 5
+    }
+  ]
+}
